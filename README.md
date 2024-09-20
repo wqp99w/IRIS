@@ -17,7 +17,7 @@
 
 ### [메인 화면]
 
-  <img src="https://github.com/wqp99w/read-me_image/blob/main/IRIS/%EB%A9%94%EC%9D%B8%ED%99%94%EB%A9%B4.jpg" width="600" height="600"/>
+  <img src="https://github.com/wqp99w/read-me_image/blob/main/IRIS/%EB%A9%94%EC%9D%B8%ED%99%94%EB%A9%B4.jpg" width="600" height="400"/>
 
 + ID 중복 확인이 가능하며, 사용자의 음식 선호도를 입력합니다.
   
