@@ -50,5 +50,5 @@
 
   <img src="https://github.com/wqp99w/read-me_image/blob/main/IRIS/%EC%9D%8C%EC%95%85%EC%9E%AC%EC%83%9D.jpg" width="600" height="400"/>
 
-  + 음식 추천받기 버튼을 누르면 음식을 추천합니다.
+  + 음악 재생 화면에서는 해당 음악의 앨범 커버와 가사, 실시간 음원 차트를 확인할 수 있습니다.
 
