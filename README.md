@@ -17,37 +17,35 @@
 
 ### [메인 화면]
 
-  <img src="https://github.com/wqp99w/read-me_image/blob/main/ooad/%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85.jpg" width="600" height="600"/>
+  <img src="https://github.com/wqp99w/read-me_image/blob/main/IRIS/%EB%A9%94%EC%9D%B8%ED%99%94%EB%A9%B4.jpg" width="600" height="600"/>
 
 + ID 중복 확인이 가능하며, 사용자의 음식 선호도를 입력합니다.
   
 
 ### [음악 요청 게시판]
 
-  <img src="https://github.com/wqp99w/read-me_image/blob/main/ooad/%EB%A1%9C%EA%B7%B8%EC%9D%B8.jpg" width="600" height="600"/>
+  <img src="https://github.com/wqp99w/read-me_image/blob/main/IRIS/%EC%9D%8C%EC%95%85%EC%9A%94%EC%B2%AD%EA%B2%8C%EC%8B%9C%ED%8C%90.jpg" width="600" height="600"/>
+
+  <img src="https://github.com/wqp99w/read-me_image/blob/main/IRIS/%EC%83%88%EA%B8%80%EC%9E%91%EC%84%B1.jpg" width="600" height="600"/>
 
   + 로그인에 성공하면 Splash 화면으로 전환되며, 음식 추천 화면으로 이동됩니다.
   
 ### [음악 요청 게시글 세부정보]
 
-  ![위치좌표](https://github.com/wqp99w/read-me_image/blob/main/ooad/%EC%9C%84%EC%B9%98%EC%A2%8C%ED%91%9C.jpg)
+  <img src="https://github.com/wqp99w/read-me_image/blob/main/IRIS/%EA%B2%8C%EC%8B%9C%EA%B8%80%EC%84%B8%EB%B6%80.jpg" width="600" height="600"/>
 
   + 현재 위치가 어딘지를 표시하며, 이를 통해 현재 좌표를 구할 수 있습니다.
   
 ### [음악 검색 기능]
 
-  ![날씨](https://github.com/wqp99w/read-me_image/blob/main/ooad/%EB%82%A0%E3%85%86.jpg)
+  <img src="https://github.com/wqp99w/read-me_image/blob/main/IRIS/%EC%9D%8C%EC%95%85%EA%B2%80%EC%83%89.jpg" width="600" height="600"/>
 
   + 현재 좌표를 이용하여 기상청 API를 사용하여 현재 위치의 날씨 정보를 받아올 수 있습니다.
   +   하늘 상태와 온도 정보만 필요하기 때문에 해당 정보들만 가져오는 모습입니다.
   
 ### [음악 재생 기능]
 
-  <img src="https://github.com/wqp99w/read-me_image/blob/main/ooad/%EC%9D%8C%EC%8B%9D%EC%B6%94%EC%B2%9C%ED%99%94%EB%A9%B4.jpg" width="300" height="600"/>
+  <img src="https://github.com/wqp99w/read-me_image/blob/main/IRIS/%EC%9D%8C%EC%95%85%EC%9E%AC%EC%83%9D.jpg" width="300" height="600"/>
 
   + 음식 추천받기 버튼을 누르면 음식을 추천합니다.
 
-  <img src="https://github.com/wqp99w/read-me_image/blob/main/ooad/%EC%B6%94%EC%B2%9C%EB%A1%9C%EA%B7%B81.jpg" width="400" height="150"/>
-
-  + 날씨에 따른 음식 종류와 사용자의 선호도에 따른 음식 종류를 각각 선택하여 음식을 추천합니다.
-  
